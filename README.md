@@ -1,11 +1,9 @@
 # SerialBaranLeecher--PHP
 
-SerialBaranLeecher [v1] By AGC007™ -- PHP :
+💥 [-SerialBaranLeecher-APi-[V1] By AGC007™-] 💥
 
--- SerialBaran Leech All Movie
-
--- Fast Speed
-
--- PHP
-
+- SerialBaran Leech All Movie ✅
+- 100% Working ✅
+- Tested ✅
+- Fast ✅
 ------- Developed by AGC007 -------
